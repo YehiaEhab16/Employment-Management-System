@@ -1,18 +1,18 @@
 [
-    {
-        "ID": 0,
-        "Name": "admin",
-        "Department": "admin",
-        "Salary": 0,
-        "Password": "admin",
-        "Days of Absence": 0
-    },
-    {
-        "ID": 1,
-        "Name": "Yehia",
-        "Department": "R&D",
-        "Salary": 5000,
-        "Password": "12345",
-        "Days of Absence": 5
-    }
+  {
+    "ID": 0,
+    "Name": "admin",
+    "Department": "admin",
+    "Salary": 0,
+    "Password": "admin",
+    "Days of Absence": 0
+  },
+  {
+    "ID": 1,
+    "Name": "Yehia Ehab",
+    "Department": "R&D",
+    "Salary": 5000,
+    "Password": "12345",
+    "Days of Absence": 5
+  }
 ]

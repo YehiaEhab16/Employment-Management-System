@@ -133,7 +133,7 @@ class BaseApp(Operations):
             return False
         else:
             if self.auth.getAuthUser() != 'admin':
-                self.showErrorDialog('Only admins can add employees')
+                self.showErrorDialog('Only admins can perform this operation')
                 return False
             else:
                 return True
